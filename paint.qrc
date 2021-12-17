@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Paint/1.png</file>
+        <file>Paint/2.png</file>
+        <file>Paint/3.png</file>
+        <file>Paint/4.png</file>
+        <file>Paint/5.png</file>
+        <file>Paint/6.png</file>
+        <file>Paint/7.png</file>
+        <file>Paint/8.png</file>
+        <file>Paint/9.png</file>
+        <file>Paint/10.png</file>
+        <file>Paint/11.png</file>
+        <file>Paint/12.png</file>
+        <file>Paint/13.png</file>
+        <file>Paint/14.png</file>
+        <file>Paint/15.png</file>
+        <file>Paint/16.png</file>
+        <file>Paint/17.png</file>
+        <file>Paint/18.png</file>
+        <file>Paint/19.png</file>
+        <file>Paint/20.png</file>
+        <file>Paint/21.png</file>
+        <file>Paint/22.png</file>
+        <file>Paint/30.png</file>
+        <file>Paint/31.png</file>
+        <file>Paint/32.png</file>
+        <file>Paint/33.png</file>
+        <file>Paint/34.png</file>
+        <file>Paint/35.png</file>
+    </qresource>
+</RCC>
